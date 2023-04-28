@@ -155,7 +155,7 @@ p{
 #services div .product {
  width: 30%;
  height: 250px;
- background-color: rgba(118, 72, 203, 0.7);
+ background-color: rgba(0, 0, 0, 0.4);     /*rgba(118, 72, 203, 0.7);*/
  padding: 15px;
  display: flex;
  flex-wrap: nowrap;
